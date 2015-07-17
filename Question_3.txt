@@ -3,8 +3,25 @@ What is it about this feature that makes it important to you?
 What are some things that make this feature unique? What is something
 you don't like about this feature? How would you improve this?
 
-Although I had heard of the so called "single-page applications" (SPA) before, it wasn't until I used SoundCloud's website that I discovered its true potential and importance in creating an immersive user experience. SoundCloud's single-page nature allows the music player to remain undisturbed while the rest of the page goes about its business with the user's demands. This feature greatly sets the site's responsiveness apart from other similar media sharing/viewing sites (i.e. YouTube), where browsing or commenting interrupts playback.
+Although I had heard of the so called "single-page applications" (SPA) before, 
+it wasn't until I used SoundCloud's website that I discovered its true potential 
+and importance in creating an immersive user experience. SoundCloud's single-page 
+nature allows the music player to remain undisturbed while the rest of the page 
+goes about its business with the user's demands. This feature greatly sets 
+the site's responsiveness apart from other similar media sharing/viewing sites 
+(i.e. YouTube), where browsing or commenting interrupts playback.
 
-While the continuous music playback is quite impressive, the player's playlist system can be greatly improved. Previewing upcoming songs navigates you to another page. This could be streamlined by having it be displayed in a panel that slides into view on click, and dismisses itself after a second click or a action on another part of the page. Users can comment on a particular time in a song, but to do so requires moving to the song page. Since the music player already has a timeline with playhead and current time displayed, this functionality could be added to the player, especially since the "Like" button is also present on the player.
+While the continuous music playback is quite impressive, the player's 
+playlist system can be greatly improved. Previewing upcoming songs navigates 
+you to another page. This could be streamlined by having it be displayed in a 
+panel that slides into view on click, and dismisses itself after a second click 
+or a action on another part of the page. Users can comment on a particular time 
+in a song, but to do so requires moving to the song page. Since the music player 
+already has a timeline with playhead and current time displayed, this 
+functionality could be added to the player, especially since the "Like" button 
+is also present on the player.
 
-Having seen the seamless nature of single-page applications, I believe that this demonstrates effectively the power of the web in delivering rich, dynamic applications that are not only powerful in functionality but also immersive in user experience.
+Having seen the seamless nature of single-page applications, I believe that 
+this demonstrates effectively the power of the web in delivering rich, 
+dynamic applications that are not only powerful in functionality but also 
+immersive in user experience.
